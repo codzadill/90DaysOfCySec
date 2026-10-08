@@ -7,7 +7,7 @@
 
 ## 📚 Table of Contents
 
-- [Introduction](#-introduction)
+- [Introduction](#-introduction) done
 - [Goals and Audience](#-goals-and-audience)
 - [Start Here](#-start-here)
 - Daily Breakdown
